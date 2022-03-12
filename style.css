@@ -1,7 +1,11 @@
-.test{
-    letter-spacing: 30px; 
+.test{ 
     font-size: 30px;font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     font-weight: lighter;
-    background-color: yellow; 
+     
+}
+.para{
+    background-color: aqua;
+    font-size: 50px;
+    font-style: italic;
 }
